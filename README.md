@@ -11,7 +11,7 @@ with data, and a diagnostic that handed me a confident wrong answer.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-only-013243?logo=numpy&logoColor=white)
-![Tests](https://img.shields.io/badge/tests-124%20passing-1baf7a)
+[![tests](https://github.com/Shehan121/ml-from-scratch/actions/workflows/tests.yml/badge.svg)](https://github.com/Shehan121/ml-from-scratch/actions/workflows/tests.yml)
 
 > scikit-learn appears **only** in `tests/` as the reference, and in `scripts/` to
 > load the bundled datasets. Nothing in `src/mlkit/` imports it.
