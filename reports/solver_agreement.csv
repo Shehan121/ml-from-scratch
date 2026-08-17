@@ -1,0 +1,7 @@
+solver,iterations,max_weight_error,r2
+normal equation,1,0.0,0.999384
+batch gradient (100 iters),100,0.00021349,0.999384
+batch gradient (500 iters),118,4.292e-05,0.999384
+batch gradient (2000 iters),118,4.292e-05,0.999384
+batch gradient (10000 iters),118,4.292e-05,0.999384
+stochastic gradient (200 epochs),200,0.00030557,0.999384

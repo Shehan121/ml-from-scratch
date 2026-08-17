@@ -1,0 +1,10 @@
+activation,hidden,n_params_checked,worst_relative_error,verdict
+relu,5,4,6.946e-08,PASS
+relu,6x4,6,8.872e-10,PASS
+relu,8x6x4,8,4.546e-09,PASS
+sigmoid,5,4,4.437e-09,PASS
+sigmoid,6x4,6,1.435e-07,PASS
+sigmoid,8x6x4,8,7.184e-08,PASS
+tanh,5,4,4.309e-09,PASS
+tanh,6x4,6,1.610e-08,PASS
+tanh,8x6x4,8,1.089e-08,PASS

@@ -1,0 +1,11 @@
+learning_rate,final_loss,iterations_used,diverged
+0.0001,6.356076e+00,300,False
+0.001,2.362000e+00,300,False
+0.01,1.549604e-04,300,False
+0.05,4.849131e-09,117,False
+0.1,1.817032e-09,59,False
+0.3,1.578030e-10,18,False
+0.5,1.208669e-12,9,False
+1.0,1.315848e+64,300,True
+1.5,1.720697e+229,300,True
+2.0,inf,300,True

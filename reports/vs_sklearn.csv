@@ -1,0 +1,7 @@
+model,dataset,mine_accuracy,sklearn_accuracy,difference,mine_fit_seconds,sklearn_fit_seconds
+Logistic regression,breast_cancer,0.9789,0.9789,0.0,0.09725,0.00816
+k-NN (k=5),breast_cancer,0.9718,0.9718,0.0,0.0,0.00042
+Decision tree (depth 4),breast_cancer,0.9296,0.9155,0.0141,0.40617,0.00527
+Gaussian naive Bayes,breast_cancer,0.9225,0.9225,0.0,0.00015,0.0005
+Softmax regression,digits,0.9689,0.9667,0.0022,,
+Linear regression (R2),diabetes,0.517748,0.517748,-0.0,,
